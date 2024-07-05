@@ -1,0 +1,8 @@
+*build*
+
+.vscode
+
+.cache
+
+generated/*
+!generated/CMakeLists.txt
